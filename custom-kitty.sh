@@ -1,7 +1,9 @@
 #!/bin/bash
 
 sudo apt install kitty git zsh -y
-
+echo "PID: $process_id"
+wait $process_id
+echo "Exit status: $?"
 kitty
 
 cd /.config/kitty
