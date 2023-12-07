@@ -1,11 +1,7 @@
 #!/bin/bash
 
 sudo apt install kitty git zsh -y
-echo "PID: $process_id"
-wait $process_id
-echo "Exit status: $?"
-kitty
-
+wait
 cd /.config/kitty
 
 git clone --depth 1 https://github.com/dexpota/kitty-themes.git ~/.config/kitty/kitty-themes
