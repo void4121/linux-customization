@@ -18,6 +18,9 @@ can be install using apt
 shell: ZSH
 https://ohmyz.sh/
 
+ZSH prompt:
+add "agnoster" to themes in .zshrc file 
+
 
 to do list:
 - create script to install and setup desktop env
