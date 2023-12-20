@@ -6,6 +6,7 @@ sudo apt install kitty git zsh curl -y
 cd .config/kitty
 
 git clone --depth 1 https://github.com/dexpota/kitty-themes.git ~/.config/kitty/kitty-themes
+#create soft link to theme configuration
 ln -s ./kitty-themes/themes/ayu_mirage.conf ~/.config/kitty/theme.conf
 touch kitty.conf && echo "include ./theme.conf" > kitty.conf
 
