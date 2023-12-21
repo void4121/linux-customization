@@ -24,3 +24,4 @@ add "agnoster" to themes in .zshrc file
 
 to do list:
 - create script to install and setup desktop env
+- add jonathan script to .zshrc
