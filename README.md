@@ -20,6 +20,7 @@ https://ohmyz.sh/
 
 ZSH prompt:
 add "agnoster" to themes in .zshrc file 
+https://github.com/agnoster/agnoster-zsh-theme
 
 
 to do list:
