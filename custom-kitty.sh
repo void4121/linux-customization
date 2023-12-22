@@ -22,5 +22,9 @@ echo "background_opacity 0.95" >> .config/kitty/kitty.conf
 
 cd
 mkdir wallpaper
-cp /linux-customization/wallpaper/ /wallpaper
+cp /linux-customization/wallpaper/* /wallpaper
+
+
+touch /.config/hypr/hyperpaper.conf
+echo "preloa
 exit
