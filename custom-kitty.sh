@@ -14,8 +14,6 @@ touch kitty.conf && echo "include ./theme.conf" > kitty.conf
 #custom zsh shell
 sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
 
-
-
-cp  ~/.zshrc .zshrc-backup
-cp .zshrc ~/
+cd
+cp  .zshrc .zshrc-backup
 exit
