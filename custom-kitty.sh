@@ -2,7 +2,7 @@
 
 #install kitty segment
 cd
-sudo apt install kitty git zsh curl -y
+sudo pacman -S kitty git zsh curl
 cd .config/kitty
 
 git clone --depth 1 https://github.com/dexpota/kitty-themes.git ~/.config/kitty/kitty-themes
@@ -16,14 +16,13 @@ sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/ins
 
 cd
 cp .zshrc .zshrc-backup
-cp .zshrc ~/
+cp ~/linux-customization/.zshrc ~/
 
 cd
 echo "background_opacity 0.95" >> .config/kitty/kitty.conf
 
-cd
 mkdir wallpaper
-cp /linux-customization/wallpaper/* /wallpaper
+cp ~/linux-customization/wallpaper/* /wallpaper
+cp ~/linux-customization/hyprland.conf  ~/linux-customization/hyprpaper.conf .config/hypr
 
-mv hyprland.conf  hyprpaper.conf .config/hypr
 exit
