@@ -16,6 +16,7 @@ sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/ins
 
 cd
 cp .zshrc .zshrc-backup
+cp .zshrc ~/
 
 cd
 echo "background_opacity 0.95" >> .config/kitty/kitty.conf
@@ -24,7 +25,5 @@ cd
 mkdir wallpaper
 cp /linux-customization/wallpaper/* /wallpaper
 
-
-touch /.config/hypr/hyperpaper.conf
-echo "preloa
+mv hyprland.conf  hyprpaper.conf .config/hypr
 exit
