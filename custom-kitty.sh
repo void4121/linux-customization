@@ -16,4 +16,11 @@ sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/ins
 
 cd
 cp .zshrc .zshrc-backup
+
+cd
+echo "background_opacity 0.95" >> .config/kitty/kitty.conf
+
+cd
+mkdir wallpaper
+cp /linux-customization/wallpaper/ /wallpaper
 exit
