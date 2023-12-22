@@ -21,8 +21,8 @@ cp ~/linux-customization/.zshrc ~/
 cd
 echo "background_opacity 0.95" >> .config/kitty/kitty.conf
 
-mkdir wallpaper
-cp ~/linux-customization/wallpaper/* /wallpaper
+mkdir ~/wallpaper
+cp -f ~/linux-customization/wallpaper/* ~/wallpaper
 cp ~/linux-customization/hyprland.conf  ~/linux-customization/hyprpaper.conf .config/hypr
 
 exit
