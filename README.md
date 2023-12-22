@@ -1,6 +1,6 @@
-# linux-customization
+# linux-customization for arch
 
-!This repository contains info of how my unix system is setup
+This repository contains info of how my unix system is setup
 
 apps:
 WM: Awesome
