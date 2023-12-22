@@ -16,4 +16,6 @@ sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/ins
 
 Y
 
+cp  ~/.zshrc .zshrc-backup
+cp .zshrc ~/
 exit
