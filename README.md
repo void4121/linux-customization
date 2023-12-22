@@ -26,4 +26,3 @@ https://github.com/agnoster/agnoster-zsh-theme
 to do list:
 - create script to install and setup desktop env
 - add jonathan script to .zshrc
-- add "background_opacity 0.95" in kitty.conf 
