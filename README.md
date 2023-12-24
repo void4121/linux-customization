@@ -26,3 +26,5 @@ https://github.com/agnoster/agnoster-zsh-theme
 to do list:
 - create script to install and setup desktop env
 - add jonathan script to .zshrc
+for arch:
+- install: hyprpaper, neovim, man-db, net-tools, neofetch, git, waybar, otf-font-awesome
