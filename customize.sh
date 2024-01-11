@@ -2,7 +2,7 @@
 
 #software installation
 
-sudo pacman -Sy kitty git zsh curl hyprpaper otf-font-awesome waybar neovim net-tools neofetch git
+sudo pacman -Sy kitty git zsh curl hyprpaper otf-font-awesome waybar neovim net-tools neofetch git rofi
 
 ### kitty setup
 cd ~/.config/kitty
