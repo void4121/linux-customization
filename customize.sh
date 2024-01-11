@@ -2,7 +2,7 @@
 
 #software installation
 
-sudo pacman -Sy kitty git zsh curl hyprpaper
+sudo pacman -Sy kitty git zsh curl hyprpaper otf-font-awesome
 cd ~/.config/kitty
 
 git clone --depth 1 https://github.com/dexpota/kitty-themes.git ~/.config/kitty/kitty-themes
