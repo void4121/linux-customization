@@ -23,5 +23,8 @@ mkdir ~/wallpaper
 cp -f ~/linux-customization/wallpaper/* ~/wallpaper
 cp ~/linux-customization/hyprland.conf  ~/linux-customization/hyprpaper.conf .config/hypr
 
+### hypr config
 
+rm -rf ~/.config/hypr* && cp -r ~/linux-customization/hypr/* ~/.config/hypr/ 
+cp 
 exit
