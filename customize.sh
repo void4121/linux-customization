@@ -27,5 +27,7 @@ cp -r ~/linux-customization/hyprland.conf  ~/linux-customization/hyprpaper.conf 
 mkdir ~/.config/hypr/hypr_backup && cp ~/.config/hypr/* ~/.config/hypr/hypr_backup
 rm -rf ~/.config/hypr* && cp -r ~/linux-customization/hypr/* ~/.config/hypr/ 
 
+### waybar
+cp -rf ~/linux-customization/waybar ~/.config/
 
 exit
