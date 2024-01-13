@@ -14,7 +14,7 @@ echo "background_opacity 0.95" >> ~/.config/kitty/kitty.conf
 
 ### ZSH setup
 #custom zsh shell
-sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)" & sleep 5
+sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
 cp ~/.zshrc ~/.zshrc-backup
 cp ~/linux-customization/.zshrc ~/
 
