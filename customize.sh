@@ -21,10 +21,11 @@ cp ~/linux-customization/.zshrc ~/
 ### wallpaper setup
 mkdir ~/wallpaper
 cp -rf ~/linux-customization/wallpaper ~/
-cp -r ~/linux-customization/hyprland.conf  ~/linux-customization/hyprpaper.conf .config/hypr
+cp -r ~/linux-customization/hypr/hyprland.conf  ~/linux-customization/hypr/hyprpaper.conf ~/.config/hypr
 
-### hypr config
-mkdir ~/.config/hypr/hypr_backup && cp -r ~/.config/hypr/* ~/.config/hypr/hypr_backup
+# hypr config
+mkdir ~/.config/hypr_backup 
+cp -rf ~/.config/hypr/* ~/.config/hypr_backup
 rm -rf ~/.config/hypr/* && cp -r ~/linux-customization/hypr/* ~/.config/hypr/ 
 
 ### waybar
