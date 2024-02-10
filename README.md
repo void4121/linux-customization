@@ -18,10 +18,12 @@ can be install using apt
 shell: ZSH
 https://ohmyz.sh/
 
-ZSH prompt:
-add "agnoster" to themes in .zshrc file 
-https://github.com/agnoster/agnoster-zsh-theme
-
 
 to do list:
-- add jonathan script to .zshrc
+- configure AUR, set MAKEFLAGS to "-j$(nproc)"
+- install Yay helper:
+  - https://github.com/Jguer/yay?tab=readme-ov-file
+  - git clone https://aur.archlinux.org/yay.git  
+- add base-devel to pacman install list
+- add virt install package(s) to pacman list
+- update grub for windows dual boot
