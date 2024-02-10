@@ -1,5 +1,8 @@
 # linux-customization for arch
 
+- Desktop setup for Nvidia drivers require following the documentation of:
+https://github.ink/korvahannu/arch-nvidia-drivers-installation-guide?tab=readme-ov-file
+
 This repository contains info of how my unix system is setup
 
 apps:
