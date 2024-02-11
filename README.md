@@ -30,3 +30,8 @@ to do list:
 - add base-devel to pacman install list
 - add virt install package(s) to pacman list
 - update grub for windows dual boot
+- add configuration for Windows/other OS detection: https://bbs.archlinux.org/viewtopic.php?id=271879
+  - install os prober via yay
+  - uncomment/add "GRUB_DISABLE_OS_PROBER=false" in /etc/default/grub
+  - run os-prober as root
+  - lastly, sudo grub-mkconfig -o /boot/grub/grub.cfg
