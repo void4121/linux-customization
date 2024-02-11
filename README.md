@@ -33,5 +33,6 @@ to do list:
 - add configuration for Windows/other OS detection: https://bbs.archlinux.org/viewtopic.php?id=271879
   - install os prober via yay
   - uncomment/add "GRUB_DISABLE_OS_PROBER=false" in /etc/default/grub
+  - update timeout timer from 5 to 100
   - run os-prober as root
   - lastly, sudo grub-mkconfig -o /boot/grub/grub.cfg
