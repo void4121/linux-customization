@@ -1,7 +1,0 @@
-onedrive-sync.sh:
-#!/bin/bash
-
-onedrive --synchronize	
-
-qemu-networkStart:
-sudo virsh net-start default
