@@ -1,0 +1,767 @@
+    1  exit
+    2  cd .config/hypr
+    3  ls
+    4  nano hyprland.conf
+    5  sudo reboot now
+    6  cd .config
+    7  ls
+    8  cd hypr
+    9  ls
+   10  nano hyprland.conf
+   11  sudo reboot now
+   12  nano /etc/makepkg.conf
+   13  sudo nano /etc/makepkg.conf
+   14  ls -la
+   15  pacman -S --needed git base-devel
+   16  sudo pacman -S --needed git base-devel
+   17  git clone https://aur.archlinux.org/yay.git
+   18  ls
+   19  cd yay
+   20  ls
+   21  makepkg -si
+   22  yay
+   23  yay -Y --gendb
+   24  yay -Syu --devel
+   25  yay -Y --devel --save
+   26  yay -Syu
+   27  yay spotify
+   28  yay discord
+   29  discord
+   30  exit
+   31  killall discord
+   32  killall Discord 
+   33  exit
+   34  sudo reboot now
+   35  sudo shutdown now
+   36  history
+   37  sudo os-prober
+   38  yay os-prober
+   39  sudo os-prober
+   40  nano /etc/default/grub
+   41  sudo nvim /etc/default/grub
+   42  sudo grub-mkconfig
+   43  sudo grub-mkconfig -o /boot/grub/grub.cfg
+   44  sudo reboot now
+   45  nano to-dolist.txt
+   46  cat to-dolist.txt
+   47  yay install vscode
+   48  yay install visual studio code
+   49  yay install code
+   50  code
+   51  yay install vscode
+   52  sudo pacman -S code
+   53  ^[[200~  git config --global user.email "you@example.com"
+   54  ^[[200~  git config --global user.email "you@example.com"␍
+   55  nano /etc/default/grub
+   56  sudo nano /etc/default/grub
+   57  sudo grub-mkconfig -o /boot/grub/grub.cfg
+   58  sudo update-grub
+   59  update-grub
+   60  sudo nano /etc/default/grub
+   61  update-grub
+   62  sudo reboot nownano /usr/lib/sddm/sddm.conf.d/default.conf
+   63  sudo nvim /usr/lib/sddm/sddm.conf.d/default.conf
+   64  ls
+   65  sudo nvim /usr/lib/sddm/sddm-helper-start-x11user
+   66  clear
+   67  cd
+   68  ls
+   69  nano to-dolist.txt
+   70  rm -rf to-dolist.txt
+   71  rm -rf linux-customization
+   72  clear
+   73  ls
+   74  cd Downloads
+   75  ls
+   76  cd ..
+   77  clear
+   78  exit
+   79  onedrive
+   80  yay onedrive
+   81  onedrive
+   82  ld
+   83  ls
+   84  cd OneDrive
+   85  ls
+   86  cd personal/wp\ pics
+   87  ls
+   88  exit
+   89  sudo shutdown now
+   90  exit
+   91  sudo reboot now
+   92  yay coreshot
+   93  coreshot
+   94  ls
+   95  cd Pictures
+   96  ls
+   97  cd Screenshots
+   98  ls
+   99  ls -la
+  100  sudo coreshot
+  101  yay -S grimblast-git
+  102  grimblast copy area
+  103  ls
+  104  grimblast save area /tmp/screenshot.png
+  105  ls
+  106  cd /tmp/
+  107  kls
+  108  ls
+  109  mv screenshot.png ~/
+  110  cd
+  111  ls
+  112  yay -R coreshot
+  113  exit
+  114  yay gimp
+  115  gimp
+  116  ls
+  117  gimp screenshot.png
+  118  gimp screenshot.png &
+  119  exit
+  120  sudo reboot now
+  121  ls -l
+  122  rm -rf screenshot.png
+  123  clear
+  124  ls -l
+  125  cd yay
+  126  ls
+  127  cd ..
+  128  rm -rf yay
+  129  ls
+  130  cd Downloads
+  131  ls
+  132  rm -rf paint-toys-text-art.png
+  133  yay nm-applet
+  134  yay network-manager-applet
+  135  sudo NetworkManager
+  136  nm-applet
+  137  sudo nm-applet
+  138  nm-applet
+  139  history
+  140  history | grep "yay"
+  141  yay spotify discord
+  142  yay help
+  143  yay --help
+  144  yay -S spotify discord
+  145  history | grep "yay"
+  146  yay -S vscode
+  147  history | grep "yay"
+  148  codeshot
+  149  grimblast
+  150  history | grep "yay"
+  151  history | grep "pacman"
+  152  lhisto
+  153  history
+  154  exit
+  155  ^[[200~echo "\n                        _              _          _  _ \n                       (_)            | |        | || |\n  _   _   __ _  _   _   _  _ __   ___ | |_  __ _ | || |\n | | | | / _` || | | | | || '_ \ / __|| __|/ _` || || |\n | |_| || (_| || |_| | | || | | |\__ \| |_| (_| || || |\n  \__, | \__,_| \__, | |_||_| |_||___/ \__|\__,_||_||_|\n   __/ |         __/ |                                 \n  |___/         |___/                                  
+  156  echo "\n                        _              _          _  _ \n                       (_)            | |        | || |\n  _   _   __ _  _   _   _  _ __   ___ | |_  __ _ | || |\n | | | | / _` || | | | | || '_ \ / __|| __|/ _` || || |\n | |_| || (_| || |_| | | || | | |\__ \| |_| (_| || || |\n  \__, | \__,_| \__, | |_||_| |_||___/ \__|\__,_||_||_|\n   __/ |         __/ |                                 \n  |___/         |___/                                  "
+  157  ^[[200~echo "Beginning Yay Install\n\n\n"  
+  158  echo "Beginning Yay Install\n\n\n"  \n
+  159  onedrive --synchronize
+  160  onedrive
+  161  ls
+  162  cd OneDrive
+  163  ls
+  164  test bruh.sh
+  165  ls
+  166  nano bruh.sh
+  167  ./bruh.sh
+  168  sudo ./bruh.sh
+  169  chmod 777 bruh.sh
+  170  ls -l
+  171  ./bruh.sh
+  172  nano bruh.sh
+  173  ./bruh.sh
+  174  exit
+  175  yay discord
+  176  yay -R discord
+  177  yay -S discord
+  178  discord
+  179  cd Downloads
+  180  ls
+  181  tar -xzvf discord-0.0.43.tar.gz
+  182  ls
+  183  cd Discord
+  184  ls
+  185  make
+  186  ./Discord
+  187  ls
+  188  yay
+  189  ls
+  190  cd ..
+  191  ls
+  192  rm -rf Discord discord-0.0.43.tar.gz
+  193  clear
+  194  ls
+  195  cd
+  196  cd .config/waybar
+  197  cd ..
+  198  cd hypr
+  199  ls
+  200  nano hyprpaper.conf
+  201  ls
+  202  vim hyprland.conf
+  203  vim keybinds.conf
+  204  exit
+  205  vim keybinds.conf
+  206  ls
+  207  cd
+  208  clear
+  209  ls -l
+  210  rm -rf bruh.sh
+  211  clear
+  212  ls -l
+  213  hyprpaper
+  214  killall hyprpaper
+  215  hyprpaper
+  216  sudo hyprpaper
+  217  ls
+  218  cd .config/kitty
+  219  ls
+  220  nano kitty
+  221  nano kitty.conf
+  222  exit
+  223  nano /config/kitty/kitty.conf
+  224  nano .config/kitty/kitty.conf
+  225  exit
+  226  nano .config/kitty/kitty.conf
+  227  exit
+  228  ls -l
+  229  exit
+  230  ls -l
+  231  nano .config/kitty/kitty.conf
+  232  exit
+  233  nano .config/kitty/kitty.conf
+  234  exit
+  235  neofetch
+  236  htop
+  237  yay brew
+  238  yay hugo
+  239  hugo --version
+  240  hugo -version
+  241  hugo --version
+  242  hugo version
+  243  ls
+  244  mkdir leet-tech
+  245  cd leet-tech
+  246  git init
+  247  ls
+  248  ls -la
+  249  hugo new site leet-tech
+  250  ls
+  251  cd leet-tech
+  252  ls
+  253  git init
+  254  ls -la
+  255  git submodule add https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
+  256  ls
+  257  ls themes
+  258  ls
+  259  nano hugo.toml
+  260  hugo server
+  261  ls
+  262  hugo server
+  263  nano hugo.toml
+  264  hugo server
+  265  ls
+  266  cd ..
+  267  ls
+  268  cd leet-tech
+  269  cp * ~/portfolio-test
+  270  cp -r * ~/portfolio-test
+  271  cd
+  272  git init
+  273  ls -l
+  274  rm -rf .git
+  275  ls
+  276  cd portfolio-test
+  277  ls -la
+  278  git init
+  279  git remote add origin https://github.com/void4121/portfolio-test.git
+  280  git branch -M main
+  281  git push -u origin main
+  282  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
+  283  git push -u origin main
+  284  ls
+  285  cd
+  286  touch access_token_git
+  287  nano access_token_git
+  288  exit
+  289  ls
+  290  cd leet-tech/leet-tech
+  291  hugo new content posts/my-first-post.md
+  292  hugo server
+  293  nano hugo.toml
+  294  hugo server
+  295  hugo new content posts/my-first-post.md
+  296  cd leet-tech/leet-tech
+  297  hugo new content posts/my-first-post.md
+  298  hugo new content posts/my-second-post.md
+  299  hugo new content posts/my-third-post.md
+  300  hugo server
+  301  hugo
+  302  hugo server
+  303  ls
+  304  nano hugo.toml
+  305  ls
+  306  ls -la
+  307  cd content
+  308  ls
+  309  cd posts
+  310  ls
+  311  cd ..
+  312  clear
+  313  ls -l
+  314  nano hugo.toml
+  315  pacman -Ql archlinux-wallpaper
+  316  yay archlinux-wallpaper
+  317  archlinux-keyring-wkd-sync
+  318  sudo archlinux-keyring-wkd-sync
+  319  cd /usr/share/backgrounds
+  320  ls
+  321  cd archlinux
+  322  ls
+  323  yay -R archlinux-wallpaper
+  324  exit
+  325  ls
+  326  cd ..
+  327  ls
+  328  cd ..
+  329  ls
+  330  cd
+  331  ls
+  332  cd Pictures
+  333  ls
+  334  cd Screenshots
+  335  ls
+  336  cd ..
+  337  ls -la
+  338  hugo server
+  339  cd
+  340  clear
+  341  ls -l
+  342  cd leet-tech
+  343  ls
+  344  cp -r leet-tech/* 
+  345  ls
+  346  cd leet-tech
+  347  ls
+  348  cp -r * ../
+  349  cd ..
+  350  ls
+  351  rm -rf leet-tech/
+  352  ls
+  353  git init
+  354  ls -la
+  355  cd
+  356  ls
+  357  cd leet-tech
+  358  ls
+  359  hugo
+  360  hugo server
+  361  hugo -D
+  362  hugo -D server
+  363  sudo reboot now
+  364  cd .config/hypr
+  365  ls
+  366  nano hyprland.conf
+  367  ls -l
+  368  nano environment.conf
+  369  babi scripts.conf '
+  370  babi scripts.conf
+  371  nano scripts.conf
+  372  cd /usr
+  373  ls
+  374  cd share
+  375  ls
+  376  cd hyprland
+  377  ls
+  378  cd
+  379  clear
+  380  cd .config/hypr
+  381  vim hyprpaper.conf
+  382  history
+  383  hyprpaper
+  384  ls
+  385  nano hyprland.conf
+  386  nano environment.conf
+  387  nano hyprland.conf
+  388  nvim hyprland.conf
+  389  nvim environment.conf
+  390  nvim keybinds.conf 
+  391  nvim scripts.conf
+  392  sudo reboot now
+  393  yay obs
+  394  ls -l
+  395  cd leet-tech
+  396  ls
+  397  ls -la
+  398  hugo server
+  399  hugo new content posts/my-nth-post.md
+  400  cd leet-tech
+  401  hugo new content posts/my-nth-post.md
+  402  ls
+  403  nano content/posts/my-nth-post.md
+  404  hugo server
+  405  ls
+  406  cd content/posts
+  407  ls
+  408  rm -rf *
+  409  ls
+  410  hugo new content posts/First-posts.md
+  411  cd ..
+  412  hugo new content posts/First-posts.md
+  413  nvim content/posts/First-posts.md
+  414  ls
+  415  git push -U origin main
+  416  git push -U origin
+  417  history | grep "push"
+  418  git push -u origin main
+  419  ls
+  420  yay webcord
+  421  webcord
+  422  lear
+  423  cd
+  424  ls
+  425  cd linux-customization-1
+  426  ls
+  427  git pull
+  428  nano apps.sh
+  429  cd
+  430  ls
+  431  cd portfolio-test
+  432  ls
+  433  cd content
+  434  ls
+  435  cd 
+  436  rm -rf portfolio-test
+  437  ls
+  438  cd Downloads
+  439  ls
+  440  cd ..
+  441  clear
+  442  ls -l
+  443  c
+  444  clear
+  445  ls -l
+  446  exit
+  447  clear
+  448  ls -l
+  449  cd ..
+  450  ls
+  451  clear
+  452  ls
+  453  cd leet-tech
+  454  clear
+  455  ls -l
+  456  hugo server
+  457  ls -l
+  458  cd
+  459  clear
+  460  ls -l
+  461  exit
+  462  neofetch
+  463  ls -l
+  464  neofetch
+  465  cd .config/hypr
+  466  ls
+  467  nano environment.conf
+  468  nvim keybinds.conf
+  469  nvim scripts.conf
+  470  cd ..
+  471  cd kitty
+  472  ls
+  473  nvim kitty.conf
+  474  nvim .config/kitty
+  475  nvim .config/kitty/kitty.conf
+  476  cd leet-tech
+  477  ls
+  478  hugo push -u origin main
+  479  ls
+  480  cd
+  481  ls
+  482  rm -rf leet-tech
+  483  ls
+  484  cd leet-tech
+  485  hugo
+  486  hugo server
+  487  ls
+  488  nano hugo.toml
+  489  nvim hugo.toml
+  490  cd leet-tech
+  491  hugo server
+  492  cd leet-tech
+  493  ls
+  494  ls -la
+  495  mkdir .github
+  496  cd .github
+  497  mkdir workflows
+  498  ls
+  499  cd workflows
+  500  nano hugo.yml
+  501  ls
+  502  git pull
+  503  nano access_token_git
+  504  ls
+  505  cd ..
+  506  ls
+  507  cd workflows
+  508  ls
+  509  cd
+  510  cd leet-tech
+  511  ls
+  512  nano hugo.toml
+  513  git push -u origin main
+  514  cd
+  515  ls
+  516  cd le
+  517  cd
+  518  ls
+  519  rm -rf leet-tech
+  520  ls
+  521  clear
+  522  cd leet-tech
+  523  ls
+  524  nano hugo.toml
+  525  ls
+  526  cd .github
+  527  ls
+  528  cd workflows
+  529  ls
+  530  nano hugo.yaml
+  531  ls
+  532  cd
+  533  ls
+  534  exit
+  535  git config --global
+  536  git config pull.rebase false
+  537  yay nwg-look
+  538  nwg-look
+  539  sudo nwg-look
+  540  nwg-look
+  541  yay -R nwg-look
+  542  yay lxappareance
+  543  gtk
+  544  exit
+  545  yay thunar
+  546  ls
+  547  nano linux-customization-1/apps.sh
+  548  yay nwg-look
+  549  nwg-look
+  550  yay gtk
+  551  gtk
+  552  cd .config
+  553  ls
+  554  cd
+  555  cd Downloads
+  556  ls
+  557  ./ML4W_Welcome-x86_64.AppImage
+  558  sudo ./ML4W_Welcome-x86_64.AppImage
+  559  exit
+  560  ls -l
+  561  cd .c
+  562  cd .config
+  563  clear
+  564  ls -l
+  565  cd gtk-3.0
+  566  ls
+  567  nano settings.ini
+  568  gsettings set org.gnome.desktop.interface color-scheme prefer-dark
+  569  history
+  570  yay -R xwg-look thunar
+  571  yay -R xwg-look
+  572  yay -R nwg-look thunar
+  573  ls
+  574  cd
+  575  clear
+  576  ls -la
+  577  nano .zshrc
+  578  nvim .oh-my-zsh/oh-my-zsh.sh
+  579  yay qt5-style-kvantum
+  580  yay -R dolphin
+  581  yay thunar
+  582  gtk --version
+  583  gtk
+  584  yay nwg-look
+  585  yay gsettings
+  586  yay gtk-look
+  587  yay nwg-look
+  588  yay nordic-darker
+  589  yay Candy icons
+  590  clear
+  591  history
+  592  nvim linux-customization-1/apps.sh
+  593  exit
+  594  sudo reboot now
+  595  grep -Ec '(vmx|svm)' /proc/cpuinfo\n 
+  596  ls
+  597  nano linux-customization-1
+  598  cd linux-customization-1
+  599  ls
+  600  nano virt-setup.sh
+  601  sudo pacman -Syyu\n 
+  602  sudo pacman -S qemu-full virt-manager virt-viewer dnsmasq bridge-utils libguestfs ebtables vde2 openbsd-netcat\n 
+  603  ls -R /
+  604  clear
+  605  man ls
+  606  ls man
+  607  ls --help
+  608  clear
+  609  ls
+  610  nvim virt-setup.sh
+  611  sudo systemctl start libvirtd.service\n 
+  612  sudo systemctl enable libvirtd.service\n 
+  613  sudo systemctl status libvirtd.service\n 
+  614  sudo usermod -aG libvirt $USER\n 
+  615  systemctl restart libvirtd.service\n 
+  616  cd
+  617  mkdir vm-stuff
+  618  cd vm-stuff
+  619  exit
+  620  ls
+  621  cd vm-stuff
+  622  ls
+  623  mkdir vm-setup
+  624  mkdir vms
+  625  cd
+  626  cd Downloads
+  627  ls
+  628  cp -r * ../vm-stuff/vm-setup
+  629  exit
+  630  cd vm-stuff/vm-setup
+  631  ls
+  632  cd ..
+  633  cd vms
+  634  ls
+  635  yay remmina
+  636  remmina
+  637  yay freerdp
+  638  remmina
+  639  ls
+  640  cd vm-stuff
+  641  mkdir shared
+  642  exit
+  643  ls
+  644  cd vm-stuff
+  645  ls
+  646  cd vm-setup
+  647  ls
+  648  cp spice-guest-tools-latest.exe ../shared
+  649  exit
+  650  ls
+  651  mkdir school
+  652  mkdir personal
+  653  mv access_token_git personal
+  654  ls
+  655  clear
+  656  ls -l
+  657  cd school/
+  658  mkdir csci-373
+  659  cd csci-373
+  660  mkdir assignment2
+  661  cd
+  662  cd OneDrive
+  663  ls
+  664  cd Class/Advanced\ Data\ Structures\ -\ CSCI\ 373
+  665  ls
+  666  cd homework
+  667  ls
+  668  mkdir assignment2
+  669  cd assignment
+  670  cd assignment2
+  671  touch test.txt
+  672  onedrive
+  673  cd
+  674  ls
+  675  rm -rf school
+  676  clear
+  677  ls -l
+  678  cd OneDrive
+  679  ls
+  680  cd Class/Advanced\ Data\ Structures\ -\ CSCI\ 373
+  681  clear
+  682  ls -l
+  683  cd homework
+  684  clear
+  685  ls -l
+  686  cd assignment
+  687  clear
+  688  ls -l
+  689  cd assignment2
+  690  ls
+  691  rm -rf test.txt
+  692  yay libre
+  693  yay libreoffice
+  694  yay libreoffice-still
+  695  ls
+  696  libreoffice Assignment2.pdf
+  697  exit
+  698  ricardo.ramirez81@login.cuny.edu
+  699  vscode-pets.start
+  700  killall code
+  701  killall vscode
+  702  code
+  703  sudo code
+  704  code
+  705  yay visual-studio-code-bin
+  706  ls
+  707  cd linux-customization-1
+  708  ls
+  709  nano apps.sh
+  710  exit
+  711  grimblast
+  712  history | "grimblast"
+  713  history | grep "grimblast"
+  714  nano screenshot.sh
+  715  grimblast save area /tmp/screenshot.png
+  716  cp /tmp/screenshot.png ~/
+  717  grimblast save area ~/screenshot1.png
+  718  exit
+  719  cd .config/hypr
+  720  clear
+  721  ls
+  722  cd ..
+  723  cd waybar
+  724  clear
+  725  ls
+  726  nvim config
+  727  killall waybar
+  728  waybar
+  729  nvim style.css
+  730  nvim config
+  731  waybar
+  732  ls
+  733  cd ..
+  734  cd hypr/
+  735  nvim hyprland.conf
+  736  nvim environment.conf
+  737  nvim scripts.conf \
+  738  nvim scripts.conf
+  739  waybar &
+  740  clear
+  741  exit
+  742  '/home/rick/OneDrive/Class/Advanced Data Structures - CSCI 373/homework/.vscode/tasks.json'
+  743  '/home/rick/OneDrive/Class/Advanced Data Structures - CSCI 373/homework/assignment1/main.cpp'
+  744  cd OneDrive
+  745  onedrive
+  746  ls -ls
+  747  cd OneDrive
+  748  onedrive
+  749  cd
+  750  clear
+  751  ls -l
+  752  cd linux-customization-1
+  753  git push -u origin main
+  754  ls
+  755  cd personal
+  756  cat access_token_git
+  757  exit
+  758  ls
+  759  cd OneDrive
+  760  onedirve
+  761  onedrive
+  762  cd
+  763  ls
+  764  touch histor.txt
+  765  history >> echo histor.txt
+  766  ls
+  767  cat echo
