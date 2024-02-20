@@ -6,9 +6,12 @@ https://github.ink/korvahannu/arch-nvidia-drivers-installation-guide?tab=readme-
 This repository contains info of how my unix system is setup
 
 apps:
-WM: Awesome
+WM: Hyprland
 https://awesomewm.org/
 can be install using apt
+
+Bar: Wayland 
+https://github.com/Alexays/Waybar
 
 launcher: Rofi
 https://github.com/davatorium/rofi
