@@ -75,7 +75,7 @@
     },
     "custom/grimblast": {
         "format": "",
-        "on-click-release": ".config/hypr/scripts/screenshot.sh"
+        "on-click-release": "~/.config/hypr/scripts/screenshot.sh"
     },
 
     "custom/spotify": {
