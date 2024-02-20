@@ -26,15 +26,7 @@ https://ohmyz.sh/
 
 
 to do list:
-- configure AUR, set MAKEFLAGS to "-j$(nproc)"
-- install Yay helper:
-  - https://github.com/Jguer/yay?tab=readme-ov-file
-  - git clone https://aur.archlinux.org/yay.git  
-- add base-devel to pacman install list
-- add virt install package(s) to pacman list
-- update grub for windows dual boot
 - add configuration for Windows/other OS detection: https://bbs.archlinux.org/viewtopic.php?id=271879
-  - install os prober via yay
   - uncomment/add "GRUB_DISABLE_OS_PROBER=false" in /etc/default/grub
   - update timeout timer from 5 to 100
   - run os-prober as root
