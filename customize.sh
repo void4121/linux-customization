@@ -42,5 +42,7 @@ echo "\Setting waybar up...\n"
 sleep 2
 cp -rf ~/linux-customization/waybar ~/.config/
 
+rm -rf /etc/makepkg.conf
+cp ~/linux-customization/makepkg.conf /etc/
 
 exit
